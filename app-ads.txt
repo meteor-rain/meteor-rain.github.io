@@ -1,3 +1,4 @@
+google.com, pub-1037019768023656, DIRECT, f08c47fec0942fa0
 Xapads.com, 117219, RESELLER
 Xapads.com, 155860, RESELLER
 bidease.com, exchange-20, RESELLER
